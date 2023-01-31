@@ -2,7 +2,8 @@
 
 - 📚 Student Full Stack Web Developer | HTML | Css | JavaScript | React | NodeJs
 - 📩 miichelleantuness@gmail.com
-- 😄 Pronouns: she/her
+- 🙎🏻‍♀️ Pronouns: she/her
+
 
 <div align="center">
   <a href="https://github.com/">MichelleAntunes
