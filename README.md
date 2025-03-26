@@ -1,7 +1,7 @@
 ### Hey! I'm Michelle Antunes👋
 
 - 📚 Student Full Stack Web Developer | HTML | Css | JavaScript | React | NodeJs
-- 📩 miichelleantuness@gmail.com
+- 📩 miichelleantunes@outlook.com
 - 🖥️ http://beacons.ai/michelleantunes
 - 🙎🏻‍♀️ Pronouns: she/her
 
